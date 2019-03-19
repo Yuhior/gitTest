@@ -29,18 +29,12 @@ $Z3D = array(
 // NODE INITIAL VALUES
 //------------------------------------------------------------
 $node_init_value = array(
+可能你不知道 我又改了这里
 'node_00010101'=>array('ath'=>62.3, 'atv'=>1.34, 'fov'=>120, 'hrad'=>-125, 'fmin'=>40, 'fmax'=>120, 'hmin'=>-360, 'hmax'=>360, 'vmin'=>15, 'vmax'=>-15, 'floor'=>'F1', 'alt'=>'展馆入口'),
 'node_00010102'=>array('ath'=>-159, 'atv'=>-0.32, 'fov'=>115, 'hrad'=>137, 'fmin'=>40, 'fmax'=>130, 'hmin'=>-360, 'hmax'=>360, 'vmin'=>15, 'vmax'=>-15, 'floor'=>'F1', 'alt'=>'领导关怀1'),
 'node_00010103'=>array('ath'=>-122.56, 'atv'=>0.03, 'fov'=>120, 'hrad'=>-23, 'fmin'=>40, 'fmax'=>120, 'hmin'=>-360, 'hmax'=>360, 'vmin'=>15, 'vmax'=>-15, 'floor'=>'F1', 'alt'=>'领导关怀2'),
 'node_00010104'=>array('ath'=>-159.36, 'atv'=>-0.47, 'fov'=>130, 'hrad'=>-45, 'fmin'=>40, 'fmax'=>130, 'hmin'=>-360, 'hmax'=>360, 'vmin'=>15, 'vmax'=>-15, 'floor'=>'F1', 'alt'=>'改造与引进'),
 'node_00010105'=>array('ath'=>-114.84, 'atv'=>0.03, 'fov'=>120, 'hrad'=>-130, 'fmin'=>40, 'fmax'=>120, 'hmin'=>-360, 'hmax'=>360, 'vmin'=>15, 'vmax'=>-15, 'floor'=>'F1', 'alt'=>'出版社成立'),
-
-'node_00010107'=>array('ath'=>-106.38, 'atv'=>0.78, 'fov'=>120, 'hrad'=>-70, 'fmin'=>40, 'fmax'=>120, 'hmin'=>-360, 'hmax'=>360, 'vmin'=>15, 'vmax'=>-15, 'floor'=>'F1', 'alt'=>'书籍墙'),
-
-'node_00010108'=>array('ath'=>-2.44, 'atv'=>-0.85, 'fov'=>130, 'hrad'=>90, 'fmin'=>40, 'fmax'=>130, 'hmin'=>-360, 'hmax'=>360, 'vmin'=>15, 'vmax'=>-15, 'floor'=>'F1', 'alt'=>'领导题字'),
-'node_00010110'=>array('ath'=>-5.3, 'atv'=>6.18, 'fov'=>108, 'hrad'=>90, 'fmin'=>40, 'fmax'=>120, 'hmin'=>-360, 'hmax'=>360, 'vmin'=>15, 'vmax'=>-15, 'floor'=>'F1', 'alt'=>'教材作者'),
-'node_00010111'=>array('ath'=>0.04, 'atv'=>7.32, 'fov'=>120, 'hrad'=>180, 'fmin'=>40, 'fmax'=>120, 'hmin'=>-360, 'hmax'=>360, 'vmin'=>15, 'vmax'=>-15, 'floor'=>'F1', 'alt'=>'荣誉区'),
-
 );
 
 //------------------------------------------------------------
